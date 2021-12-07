@@ -1,14 +1,16 @@
-# Next.js + Tailwind CSS Example
+# Commsult Project Test by Evi Andrianto
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This project test is powered by Next js (react framework) and Spring boot (Java Framework).
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+## Frontend
 
-## Preview
+In the frontend side, the depedency libraries are tailwind, daisy ui, etc.
+In order to install all the dependency you can use the following command:
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+```
+npm install
+```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
 ## Deploy your own
 
