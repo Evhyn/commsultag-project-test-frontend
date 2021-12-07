@@ -14,12 +14,12 @@ npm install
 
 This project consist of only 2 pages which are:
 
-1. Login Page
+### Login Page
 
 ![Login Page](https://i.ibb.co/jR1cjrh/Login.jpg)
 
 
-2. Home Page
+### Home Page
 
 ![Home Page Page](https://i.ibb.co/StBj18q/Tble.jpg)
 
