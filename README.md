@@ -2,7 +2,7 @@
 
 This project test is powered by Next js (react framework) and Spring boot (Java Framework).
 
-For Backend Side you can check the following link:
+For the Backend Side you can check the following link:
 https://github.com/Evhyn/commsultag-project-test-backend/
 
 ## Application Architecture
