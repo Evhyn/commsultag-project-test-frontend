@@ -5,6 +5,7 @@ This project test is powered by Next js (react framework) and Spring boot (Java 
 ## Frontend
 
 In the frontend side, the depedency libraries are tailwind, daisy ui, etc.
+
 In order to install all the dependency you can use the following command:
 
 ```
