@@ -12,6 +12,17 @@ In order to install all the dependency you can use the following command:
 npm install
 ```
 
+This project consist of only 2 pages which are:
+
+1. Login Page
+
+![Login Page](https://ibb.co/3zLDPC1)
+
+
+2. Home Page
+
+![Home Page Page](https://ibb.co/2vd9LQX)
+
 
 ## Deploy your own
 
