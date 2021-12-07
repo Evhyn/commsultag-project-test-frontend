@@ -18,6 +18,10 @@ This project consist of only 2 pages which are:
 
 ![Login Page](https://i.ibb.co/jR1cjrh/Login.jpg)
 
+|username|password|
+|----|-----|
+|admin|admin|
+|User1|User1|
 
 ### Home Page
 
