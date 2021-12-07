@@ -14,7 +14,7 @@ npm install
 
 This project consist of only 2 pages which are:
 
-### Login Page
+### 1. Login Page
 
 ![Login Page](https://i.ibb.co/jR1cjrh/Login.jpg)
 
@@ -25,25 +25,19 @@ You can use the following user account which have been registered to the databas
 |admin|admin|
 |User1|User1|
 
-### Home Page
+### 2. Home Page
 
-![Home Page Page](https://i.ibb.co/StBj18q/Tble.jpg)
+![Home Page](https://i.ibb.co/StBj18q/Tble.jpg)
 
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+In this page you can freely insert, update and delete this table.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+To insert new data you can click "Add Stock +" button, fill the form and click "Add" to add the record.
+![Add Stock](https://i.ibb.co/5MkyQf3/add-Stock.jpg)
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+When one of the table is clicked, then the following modal is popped out:
+![Table modal](https://i.ibb.co/HHw6zD1/MOdals.jpg)
+Every rows of table is editable just clicking the desired row, put the desired input and update or even delete the desired row.
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
