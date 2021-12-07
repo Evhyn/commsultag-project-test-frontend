@@ -7,7 +7,7 @@ https://github.com/Evhyn/commsultag-project-test-backend/
 
 ## Application Architecture
 
-![Software Architecture](https://i.ibb.co/WGvjKw6/Architecture.png)
+![Software Architecture](https://i.ibb.co/12NV8DQ/Architecture.png)
 
 
 ## Frontend
