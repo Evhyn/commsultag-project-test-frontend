@@ -2,6 +2,9 @@
 
 This project test is powered by Next js (react framework) and Spring boot (Java Framework).
 
+For Backend Side you can check the following link:
+https://github.com/Evhyn/commsultag-project-test-backend/
+
 ## Frontend
 
 In the frontend side, the depedency libraries are tailwind, daisy ui, etc.
@@ -24,7 +27,6 @@ You can use the following user account which have been registered to the databas
 |----|-----|
 |admin|admin|
 |User1|User1|
-
 
 
 ### 2. Home Page
