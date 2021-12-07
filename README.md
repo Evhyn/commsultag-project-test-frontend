@@ -12,7 +12,7 @@ https://github.com/Evhyn/commsultag-project-test-backend/
 
 ## Frontend
 
-In the frontend side, the dependencies are tailwind, daisy ui, etc.
+On the frontend side, the dependencies are tailwind, daisy ui, etc.
 
 In order to install all the dependencies you can use the following command:
 
