@@ -18,6 +18,8 @@ This project consist of only 2 pages which are:
 
 ![Login Page](https://i.ibb.co/jR1cjrh/Login.jpg)
 
+You can use the following user account which have been registered to the database to log-in this page:
+
 |username|password|
 |----|-----|
 |admin|admin|
