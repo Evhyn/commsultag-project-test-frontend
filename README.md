@@ -20,6 +20,12 @@ In order to install all the dependencies you can use the following command:
 npm install
 ```
 
+
+To run the react in development mode, first of all you must run the backend side first and then you can type the following command:
+```
+npm run dev
+```
+
 This project consist of only 2 pages which are:
 
 ### 1. Login Page
